@@ -1,0 +1,28 @@
+name: Unbreakable Beats
+favicon: null
+layout_spectrum: 0.8923130522016436
+typography_spectrum: 0.3918302583042532
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6732885241508484
+  lightness: 0.32471332838758826
+  saturation: 0.6530008933041245
+  rhythmicContrast: 0.6771283322013915
+purpose: []
